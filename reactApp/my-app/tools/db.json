@@ -1,0 +1,63 @@
+{
+  "clusters": [
+    {
+      "id": 1,
+      "clusterName": "Test",
+      "slug": "react-auth0-authentication-security",
+      "templateId": 1,
+      "volumeSize": 50
+    },
+    {
+      "id": 1,
+      "clusterName": "Test2",
+      "slug": "react-auth0-authentication-security",
+      "templateId": 1,
+      "volumeSize": 50
+    },
+    {
+      "id": 1,
+      "clusterName": "Test3",
+      "slug": "react-auth0-authentication-security",
+      "templateId": 1,
+      "volumeSize": 50
+    },
+    {
+      "id": 2,
+      "slug": "sdfdsf",
+      "clusterName": "sdfdsf",
+      "templateId": 1,
+      "volumeSize": "222",
+      "createdAt": 1587879111589
+    },
+    {
+      "id": 3,
+      "slug": "fdsfhds",
+      "clusterName": "fdsfhds",
+      "templateId": 1,
+      "volumeSize": "1111",
+      "createdAt": 1587879227868
+    },
+    {
+      "id": 4,
+      "slug": "2222",
+      "clusterName": "2222",
+      "templateId": 1,
+      "volumeSize": "11",
+      "createdAt": 1587879948034
+    }
+  ],
+  "templates": [
+    {
+      "id": 1,
+      "name": "v1.17.3.1"
+    },
+    {
+      "id": 2,
+      "name": "v1.15.7"
+    },
+    {
+      "id": 3,
+      "name": "v1.17.3.deprecated"
+    }
+  ]
+}
